@@ -1,0 +1,11 @@
+{
+  "contractName": "HashProofRegistry",
+  "contractAddress": "0x4ac6ae5fDB83CfE0332D60afDfDF1E8DBf0D1721",
+  "network": "botchain",
+  "chainId": 968,
+  "deploymentTxHash": "0x144583267e6e06b587c3cbd1697800a336f498154eab03c433ec70745db24436",
+  "deployer": "0x5E889b72A1464489e7df124280Ee4A5c11b039B3",
+  "deployedAt": "2026-11-06T08:54:25.719Z",
+  "rpcUrl": "https://rpc.bohr.life",
+  "explorerUrl": "https://scan.bohr.life"
+}
